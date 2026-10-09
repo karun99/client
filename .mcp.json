@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "client": {
+      "command": "node",
+      "args": [
+        "mcp-server/server.mjs"
+      ]
+    }
+  }
+}
